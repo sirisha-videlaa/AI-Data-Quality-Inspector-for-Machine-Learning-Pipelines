@@ -1,0 +1,5 @@
+{
+  "name": "ML Data Quality Auditor",
+  "description": "An expert-level tool for ML Engineers to audit tabular datasets for quality issues, data leakage, and distribution risks before model training.",
+  "requestFramePermissions": []
+}
